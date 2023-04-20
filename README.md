@@ -23,3 +23,5 @@ My name is **Lewis Lee**.
   - Mail: [ghxx040406@163.com](mailto:ghxx040406@163.com)
   - QQ: <a href="tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=26198573&website=www.oicqzone.com">919488329</a>
 - My Chinese name is 李博宇.
+
+[![CrackLewis's GitHub stats](https://github-readme-stats.vercel.app/api?username=CrackLewis)](https://github.com/anuraghazra/github-readme-stats)
