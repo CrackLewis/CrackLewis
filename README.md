@@ -20,7 +20,7 @@ My name is **Lewis Lee**.
 - My main interests are in system architecture and traditional algorithms.
 - I'm currently preparing for National Entrance Examination for Postgraduate Candidates 2024, so my dedication in development may be limited.
 - How to reach me:
-  - Mail: [ghxx040406@163.com](mailto:ghxx040406@163.com)
+  - Mail: ghxx040406 at 163 dot com
   - QQ: <a href="http://wpa.qq.com/msgrd?v=3&uin=919488329&site=qq&menu=yes">919488329</a>
 - My Chinese name is 李博宇.
 
