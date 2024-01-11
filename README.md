@@ -14,13 +14,38 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is **Lewis Lee**.
+## Identity & Contact
 
-- I'm currently an undergraduate student in CSE, CEIE, Tongji Univ.
-- My main interests are in system architecture and traditional algorithms.
-- I'm currently preparing for National Entrance Examination for Postgraduate Candidates 2024, so my dedication in development may be limited.
+- My name is **Lewis Lee**, and my Chinese name is 李博宇.
 - How to reach me:
   - Mail: ghxx040406 at 163 dot com
   - QQ: <a href="http://wpa.qq.com/msgrd?v=3&uin=919488329&site=qq&menu=yes">919488329</a>
-- My Chinese name is 李博宇.
 
+## R&D Interests
+
+I'm generally interested in topics related to compiler designs, system architectures and traditional algorithms.
+
+## Education
+
+- Tongji University, B. Eng. in CS, Sept. 2020-Present
+
+## Honors & Awards
+
+International and national awards are listed below:
+
+- International Collegiate Programming Contest 2022, Nanjing Station, Bronze Medal
+- China Collegiate Programming Contest 2022, Weihai Station, Bronze Medal
+- CCF Collegiate Computer System & Programming Contest 2022, Bronze Medal
+
+## Skills
+
+- Languages: Chinese (native speaker), English (fluent, CET6: 653/710)
+- Platform: Windows, Linux (Debian, CentOS)
+- Development:
+  - Languages:
+    - Journeyman (>100k): C++
+    - Beginning (10k-100k): Python, C, Java, JavaScript, TeX
+    - Entry (1k-10k): Visual Basic, Rust, TypeScript, C#, Verilog
+  - Environments: VS, PyCharm, Intellij IDEA
+  - Tools: Git, CMake, Makefile, VSCode, Maven, npm, cargo
+  - Frames: Qt, OpenCV
