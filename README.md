@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 - How to reach me:
   - Mail: ghxx040406 at 163 dot com
   - QQ: <a href="http://wpa.qq.com/msgrd?v=3&uin=919488329&site=qq&menu=yes">919488329</a>
+  - WeChat: @CrackLewis
 
 ## R&D Interests
 
