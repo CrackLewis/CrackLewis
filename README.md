@@ -49,4 +49,4 @@ International and national awards are listed below:
     - Entry (1k-10k): Visual Basic, Rust, TypeScript, C#, Verilog
   - Environments: VS, PyCharm, Intellij IDEA
   - Tools: Git, CMake, Makefile, VSCode, Maven, npm, cargo
-  - Frames: Qt, OpenCV
+  - Frames: Qt, OpenCV, OpenGL
