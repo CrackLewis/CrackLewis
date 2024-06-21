@@ -28,7 +28,8 @@ I'm generally interested in topics related to compiler designs, system architect
 
 ## Education
 
-- Tongji University, B. Eng. in CS, Sept. 2020-Present
+- Peking University, M. Eng. in SE, Sept 2024-Present
+- Tongji University, B. Eng. in CS, Sept 2020-Jun 2024
 
 ## Honors & Awards
 
