@@ -28,8 +28,8 @@ I'm generally interested in topics related to compiler designs, system architect
 
 ## Education
 
-- Peking University, M. Eng. in SE, Sept 2024-Present
-- Tongji University, B. Eng. in CS, Sept 2020-Jun 2024
+- Peking University, M. Eng. in SE, Sep 2024-Present
+- Tongji University, B. Eng. in CS, Sep 2020-Jun 2024
 
 ## Honors & Awards
 
@@ -47,7 +47,7 @@ International and national awards are listed below:
   - Languages:
     - Journeyman (>100k): C++
     - Beginning (10k-100k): Python, C, Java, JavaScript, TeX
-    - Entry (1k-10k): Visual Basic, Rust, TypeScript, C#, Verilog
+    - Entry (1k-10k): Visual Basic, Rust, Go, TypeScript, C#, Verilog
   - Environments: VS, PyCharm, Intellij IDEA
   - Tools: Git, CMake, Makefile, VSCode, Maven, npm, cargo
   - Frames: Qt, OpenCV, OpenGL
