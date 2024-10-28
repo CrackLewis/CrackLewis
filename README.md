@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ## R&D Interests
 
-I'm generally interested in topics related to compiler designs, system architectures and traditional algorithms.
+I'm now a graduate student advised by Assoc Prof. Shengli Sun, working in the field of data mining and machine learning.
 
 ## Education
 
@@ -50,4 +50,4 @@ International and national awards are listed below:
     - Entry (1k-10k): Visual Basic, Rust, Go, TypeScript, C#, Verilog
   - Environments: VS, PyCharm, Intellij IDEA
   - Tools: Git, CMake, Makefile, VSCode, Maven, npm, cargo
-  - Frames: Qt, OpenCV, OpenGL
+  - Frameworks: Qt, OpenCV, OpenGL
