@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# I accept any form of criticism but I perfer pardon. I'm sorry.
+# I accept any form of criticism but I perfer pardon, and I will behave better to earn it. I'm sorry.
