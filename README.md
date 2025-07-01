@@ -13,5 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [ghxx040406@163.com](mailto://ghxx040406@163.com)
 - ⚡ Fun fact: ...
 -->
-
-# I accept any form of criticism but I perfer pardon, and I will behave better to earn it. I'm sorry.
